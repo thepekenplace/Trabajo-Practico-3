@@ -1,0 +1,45 @@
+*{
+
+@import url(https://fonts.google.com/specimen/Roboto+Condensed?preview.text=Efecto%20Mariposa&preview.text_type=custom);
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    width: calc(100vw - (100vw - 100%));
+    background-color: #F4EEED;
+}
+
+header {
+    background-color: #D9D9D9;      
+    padding: 16px 32px;                                  
+    top: 0;
+   
+}
+
+p {
+    font-family: Roboto Condensed, sans-serif;
+    font-size: 12px;
+
+    border-top: 1px dotted #999B84;;
+
+    margin: 15 px;
+    margin-left: 10px;
+
+    padding: 18px;
+}
+
+#background {
+    width: 75vw;
+    margin: 0 auto;
+    display: block;
+}
+footer {
+
+    background-color: #999B84;      
+    padding: 16px 32px;                                  
+    top: 0;
+
+}
